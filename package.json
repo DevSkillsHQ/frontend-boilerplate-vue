@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "build": "cd app && npm run build",
-    "start": "cd app && npm run start",
+    "start": "cd app && npm run serve",
     "test": "cypress run"
   },
   "devDependencies": {
