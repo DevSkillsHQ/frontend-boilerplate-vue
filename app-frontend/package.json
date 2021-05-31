@@ -1,5 +1,5 @@
 {
-  "name": "app-frontend",
+  "name": "frontend-boilerplate-vue",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "test": "jest"
+    "test": "jest --watch"
   },
   "dependencies": {
     "core-js": "^3.9.1",
