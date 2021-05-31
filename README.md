@@ -12,6 +12,7 @@ A backbone for your coding challenge.
 
 - Vue 2.6
 - Nuxt 2
+- TailwindCSS 2
 - Cypress 7
 - GitHub Actions
 
