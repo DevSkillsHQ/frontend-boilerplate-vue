@@ -10,8 +10,8 @@ A backbone for your coding challenge.
 
 ## Tech Stack
 
-- Nuxt 2
 - Vue 2.6
+- Nuxt 2
 - Cypress 7
 - GitHub Actions
 
