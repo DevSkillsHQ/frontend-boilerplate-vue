@@ -1,4 +1,4 @@
-# Frontend Boilerplate Vue
+# Frontend Boilerplate Vue 3 / Vite
 
 Here comes a Vue3/Vite project boilerplate.
 
