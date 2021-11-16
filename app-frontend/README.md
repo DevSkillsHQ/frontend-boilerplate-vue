@@ -1,11 +1,8 @@
-# Frontend Boilerplate Vue
+# Frontend Boilerplate Vue 3 / Vite
 
-## Project Structure
+Here comes a Vue3/Vite project boilerplate.
 
-- `components/` - app's components
-- `layouts/` - app's layouts
-- `pages/` - app's pages
-- `test/` - app's tests
+Find the source code is under `src/`.
 
 ## Scripts
 
@@ -13,5 +10,4 @@
 npm run dev # run the app for local development
 npm run build # build the app
 npm run start # start the app
-npm run test # run project tests under test/
 ```
