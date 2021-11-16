@@ -2,7 +2,7 @@
 
 Here comes a Vue3/Vite project boilerplate.
 
-Find the source code is under `src/`.
+Find the source code under `src/`.
 
 ## Scripts
 
