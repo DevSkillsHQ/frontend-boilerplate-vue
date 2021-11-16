@@ -1,7 +1,13 @@
-# Vue 3 + Vite
+# Frontend Boilerplate Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Here comes a Vue3/Vite project boilerplate.
 
-## Recommended IDE Setup
+Find the source code is under `src/`.
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Scripts
+
+```bash
+npm run dev # run the app for local development
+npm run build # build the app
+npm run start # start the app
+```
