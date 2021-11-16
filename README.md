@@ -1,4 +1,4 @@
-# Frontend Boilerplate Vue
+# Frontend Boilerplate Vue 3
 
 A backbone for your coding challenge.
 
