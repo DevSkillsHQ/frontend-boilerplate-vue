@@ -8,8 +8,8 @@
          :data-account-id="transaction.id"
          :data-amount="transaction.amount"
          :data-balance="accountBalance">
-      <div class="">Transferred {{ transaction.amount }}$ from account {{ transaction.id }} </div>
-      <div class="" v-if="index == 0">The current account balance is {{ accountBalance }}$</div>
+      <div class="">Transferred <span class="fw-bold">{{ transaction.amount }}$</span> from account <span class="fw-bold">{{ transaction.id }}</span> </div>
+      <div class="" v-if="index == 0">The current account balance is <span class="fw-bold">{{ accountBalance }}$</span></div>
     </div>
   </div>
 </template>
