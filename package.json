@@ -1,6 +1,6 @@
 {
   "name": "frontend-boilerplate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "dev": "cd app-frontend && npm run dev",
     "build": "cd app-frontend && npm install && npm run build",
@@ -8,6 +8,6 @@
     "test": "cypress run"
   },
   "devDependencies": {
-    "cypress": "^8.6.0"
+    "cypress": "^9.7.0"
   }
 }
